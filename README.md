@@ -1,14 +1,14 @@
-# Optimal_Lag_Selection
+# Optimal lagged feature selection based on MRMR and quadratic programming  
 
 Author: Shilin Zhang  
 
 Description:  
-Replication work of the paper:  
-Optimal selection of time lags for TDSEP based on genetic algorithm
+Finding a robust way of choosing an optimal lag on mutiple kinds of time series regression models  
 
 Related Paper:  
-TDSEP - an efficient algorithm for blind separation using time structure
+Comprehensive study of feature selection methods to solve multicollinearity problem according to evaluation criteria  
+Effective Global Approaches for Mutual Information Based Feature Selection  
 
 Method of determning the optimal lag:  
-Indenpendent Component Analysis (ICA)  
-Genetic Algorithm (GA)
+Minimum Redundancy Maximum Relevance  
+Quadratic Programming  
