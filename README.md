@@ -10,5 +10,15 @@ Comprehensive study of feature selection methods to solve multicollinearity prob
 Effective Global Approaches for Mutual Information Based Feature Selection  
 
 Method of determning the optimal lag:  
-Minimum Redundancy Maximum Relevance  
-Quadratic Programming  
+Partial Autocorrelation FUnction  
+Quadratic Programming Lag Selection  
+Genetic Algorithm Lag Selection  
+
+Criterion:  
+Mutual Information  
+Correlation Coefficient
+Partial Correlation
+
+Data Source:
+Yahoo Finance  
+UCI  
