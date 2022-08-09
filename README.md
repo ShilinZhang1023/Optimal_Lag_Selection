@@ -1,4 +1,4 @@
-# Optimal lagged feature selection based on MRMR and quadratic programming  
+# Optimal Scoring-Based Lag Selection for Time Series 
 
 Author: Shilin Zhang  
 
